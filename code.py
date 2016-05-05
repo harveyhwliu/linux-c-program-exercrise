@@ -1,3 +1,2 @@
 echo 'hello,python'
-echo 'hello,python'
-echo 'hello,python'
+echo 'bye'
