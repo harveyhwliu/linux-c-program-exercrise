@@ -19,5 +19,8 @@
 #include <arpa/inet.h>
 #include <ctype.h>
 #include <net/if.h>
+#include <sys/un.h>
+#include <stddef.h>
+#include <netdb.h>
 
 #endif
